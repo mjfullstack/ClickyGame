@@ -1,5 +1,7 @@
 
 .navbar-nav {
+  /* padding-bottom: 1rem;
+  margin-bottom: 1rem; */
   width: 100%;
   text-align: center;
   background-color: "light-blue";
@@ -11,6 +13,9 @@
     display: inline-block;
 }
 
-
+/* #winner {
+  display: none;
+}
+ */
 
 

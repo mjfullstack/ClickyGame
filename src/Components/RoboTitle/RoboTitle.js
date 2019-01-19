@@ -4,7 +4,7 @@ import './RoboTitle.css';
 
 function RoboTitle() {
   return (
-    <div>
+    <div id='myRoboTitle'>
       <h1 className="f1">ROBO FRIENDS</h1>
     </div>
   );
